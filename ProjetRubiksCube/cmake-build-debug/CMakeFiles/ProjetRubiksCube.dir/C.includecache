@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/conio.h
+
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/main.c
+stdio.h
+-
+stdlib.h
+-
+rubiks.h
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/rubiks.h
+conio.h
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/conio.h
+
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/rubiks.c
+rubiks.h
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/rubiks.h
+conio.h
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/conio.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+
+C:/Users/Clara/CLionProjects/ProjetRubiksCube/rubiks.h
+
